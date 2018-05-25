@@ -3,7 +3,7 @@ Trang web của sự sáng tạo giúp nuôi dưỡng những hạt giống củ
 
 <a href="https://docbiet.com/">Đọc để Biết?</a> xin chia sẻ với các bạn source code tạo phần comment với ajax load giống như facebook.
 
-Một số backlink bên lề, mọi người hãy click ủng hộ nhé!
+Một số chuyên mục bên lề, click xem chi tiết!
 <a href="https://docbiet.com/danh-muc/cam-hung/">Khơi nguồn cảm hứng | Đọc để biết?</a>
 <a href="https://docbiet.com/danh-muc/sang-tao/">Khơi nguồn sáng tạo | Đọc để biết?</a>
 <a href="https://docbiet.com/danh-muc/kham-pha/">Khám phá thế giới | Đọc để biết?</a>
